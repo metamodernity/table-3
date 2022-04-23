@@ -1,0 +1,119 @@
+.table {
+    width: 100%;
+    height: 670px;
+    border-width: 3px;
+    border-color: rgba(89, 50, 234, 0.42);
+    border-radius: 50px;
+    color: #7250F2;
+    /*background: #FFFFFF;
+    border: 3px solid rgba(120, 87, 243, 0.46);
+    box-shadow: 0px 10px 60px rgba(226, 236, 249, 0.5);
+    border-radius: 50px;
+    border: 3px solid;
+    border-color: rgba(89, 50, 234, 0.46);
+    border-width: 3px;*/
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+/*положение таблицы на странице*/
+.table-main{
+    width: 50%;
+    margin-left: 30%;
+    margin-top: 2%;
+}
+.table-responsive{
+    border: 3px solid #7250F2;
+    border-width: 3px;
+    border-radius: 50px;
+}
+h1 {
+    width: 986px;
+height: 78px;
+left: -3px;
+top: -3px;
+font-family: 'Poppins', sans-serif;
+background: #7250F2;
+box-shadow: 0px 10px 60px rgba(226, 236, 249, 0.5);
+border-radius: 27px;
+}
+.button{
+    background:#FFFFFF;
+    cursor: pointer;
+    border: 1px solid #282828;
+    box-sizing: border-box;
+    position: absolute;
+    width: 224px;
+    height: 50px;
+    left: 40px;
+    top: 160px;
+    border: 1px solid rgba(89, 50, 234, 0.42);
+    box-sizing: border-box;
+    border-radius: 15px;
+    font-family: 'Poppins', sans-serif;
+}
+@media screen {
+    
+}
+.test {
+    width: 986px;
+    height: 78px;
+    left: -3px;
+    top: -3px;
+    
+    background: #7250F2;
+    box-shadow: 0px 10px 60px rgba(226, 236, 249, 0.5);
+    border-radius: 27px;
+    font-family: 'Poppins', sans-serif;
+}
+.buttons{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    margin-top: 1%;
+    font-family: 'Poppins', sans-serif;
+}
+.two{
+    margin-left: 35%;
+    background: #7350F2;
+    border-radius: 7px;
+    width: 7%;
+    color: #FFFFFF;
+
+font-style: normal;
+font-weight: 500;
+font-size: 29px;
+line-height: 44px;
+font-family: 'Poppins', sans-serif;
+}
+.one{
+    background: #7350F2;
+    border-radius: 7px;
+    width: 7%;
+    margin-left: 30.5%;
+    color: #FFFFFF;
+font-style: normal;
+font-weight: 500;
+font-size: 29px;
+line-height: 44px;
+font-family: 'Poppins', sans-serif;
+}
+.coltext{
+    color:  #5932EA;
+    font-size: 26px;
+line-height: 39px;
+}
+/*.nav{
+    background: #7250F2;
+box-shadow: 0px 10px 60px rgba(226, 236, 249, 0.5);
+height: 70px;
+}*/
+.col-tabel{
+    width: 20%;
+    color: #7250F2;
+}
+.table-bordered{
+    color: #7250F2;
+    /*background-color: #7250F2 ;*/
+}
+td tr {
+    color: #7250F2;
+}
